@@ -17,3 +17,20 @@ int main{
 //％d\n   整型
 //％f\n    float
 //％\lf     double
+
+
+scanf()  输入函数
+求两个整数和
+
+int main() 
+{
+    int a= 0;
+    int b=0;
+    int sum=0
+scanf("%d %d,&a &b");
+    sum=a+ b;
+    printf("sum= %d\n,sum")
+
+return 0;
+}
+强行使用scanf()  在第一行输入#define _CRT_SECURE_NO_WARNINGS
